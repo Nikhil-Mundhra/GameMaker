@@ -1,4 +1,5 @@
 Initial Idea & Game Play
+
 The game’s mission is to educate players on responsible energy consumption, a crucial element in understanding urban sustainability and sustainable living environments.
 The game is set when the world is on the brink of complete irreversible climate change that could destroy life as we know it. However, humans are still greedy and wish to enjoy utilities and achieve happiness. 
 The objective is to prevent death by climate change while maintaining a sustainable carbon footprint till happiness reaches 100%. The player must turn on many utilities and maintain plants to end the game quicker or wait a long time with fewer utilities.
